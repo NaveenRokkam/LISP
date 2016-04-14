@@ -1,6 +1,5 @@
-# LISP_end_of_list
-Populate the end of a list using LISP code
+# LISP
 
-The code is my experiment of functional languages
+Precisely common Lisp.
 
-The function challenge accepts a list and prints the last element
+The code snippets are my experiment of functional languages.

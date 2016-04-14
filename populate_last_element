@@ -1,0 +1,8 @@
+(defun challenge (values)
+    (if (cdr values)
+        (challenge (cdr values))
+        (print values)
+        )
+)
+
+(challenge '(17 2 3))
